@@ -44,3 +44,15 @@
     - 후기 포스트 : https://theonly1.tistory.com/1715
     - kaggle의 discussion : https://www.kaggle.com/c/champs-scalar-coupling/discussion/106572
 - Keras NN 예제 : https://www.kaggle.com/todnewman/keras-neural-net-for-champs
+
+
+<br>
+
+# 참고
+
+- text classification
+    - of TensorFlow : https://www.tensorflow.org/tutorials/keras/text_classification_with_hub
+    - 한글 설명 : https://webnautes.tistory.com/1284
+
+
+    
