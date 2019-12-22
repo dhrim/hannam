@@ -12,10 +12,10 @@
 # 교육 내용
 
   - 10:00 ~ 11:30 : 딥러닝 개요
-  - 11:30 ~ 13:00 : python, padas, numpy, Keras를 사용한 DNN 기반 코드
-  - 14:00 ~ 16:00 : DNN 실습
-  - 16:00 ~ 18:00 : CNN 실습
- 
+  - 11:30 ~ 13:00 : Keras DNN 실습
+  - 14:00 ~ 16:00 : CNN 실습
+  - 16:00 ~ 18:00 : Kaggle 실데이터 notebook 리뷰
+  
 
 <br>
 
@@ -36,5 +36,12 @@
     - VGG16 : [VGG16_classification_and_cumtom_data_training.ipynb](material/VGG16_classification_and_cumtom_data_training.ipynb)
 
 
+<br>
 
- 
+# 사례 리뷰 - Kaggle, Predicting Molecular Properties
+
+- 대회 홈 : https://www.kaggle.com/c/champs-scalar-coupling
+- 한국팀 후기
+    - 후기 포스트 : https://theonly1.tistory.com/1715
+    - kaggle의 discussion : https://www.kaggle.com/c/champs-scalar-coupling/discussion/106572
+- Keras NN 예제 : https://www.kaggle.com/todnewman/keras-neural-net-for-champs
