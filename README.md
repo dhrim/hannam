@@ -29,8 +29,11 @@
     - 분류기 : [dnn_as_a_classifier.ipynb](material/dnn_as_a_classifier.ipynb)
     - IRIS : [dnn_iris_classification.ipynb](material/dnn_iris_classification.ipynb)
     - MNIST 영상데이터 : [dnn_mnist.ipynb](material/dnn_mnist.ipynb)
-
-
+- CNN as classification
+    - MNIST 분류 : [cnn_mnist.ipynb](material/cnn_mnist.ipynb)
+    - CIFAR10 분류 : [cnn_cifar10.ipynb](material/cnn_cifar10.ipynb)
+- VGG16 classification
+    - VGG16 : [VGG16_classification_and_cumtom_data_training.ipynb](material/VGG16_classification_and_cumtom_data_training.ipynb)
 
 
 
