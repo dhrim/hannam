@@ -22,7 +22,6 @@
 # 교육 자료
 
 - 인공지능과 케라스 소개 : [AI_and_Keras_intro.pptx](material/AI_and_Keras_intro.pptx)
-- python, numpy, pandas : TODO
 - Keras 요약 [keras_in_short.md](material/keras_in_short.md)
 - DNN in Keras : [dnn_in_keras_shortly.ipynb](material/dnn_in_keras_shortly.ipynb)
 - DNN as classifier
